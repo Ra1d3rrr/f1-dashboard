@@ -1,5 +1,0 @@
-streamlit
-streamlit-autorefresh
-fastf1
-matplotlib
-pandas
